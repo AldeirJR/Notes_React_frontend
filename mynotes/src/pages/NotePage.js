@@ -21,7 +21,6 @@ export const NotePage = (history) => {
     let data = await response.json()
     setNote(data)
 
-
     }
 
 
